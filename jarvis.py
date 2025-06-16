@@ -9,8 +9,8 @@ import requests
 from word2number import w2n  # type: ignore
 
 # Set your API keys here
-openai.api_key = "sk-...oN0A"
-news_api_key = "9b51e90d610b43bd9d0e413c5993e661"
+openai.api_key = "Key"
+news_api_key = "Key"
 
 # Initialize the voice engine
 engine = pyttsx3.init()
