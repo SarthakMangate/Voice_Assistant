@@ -11,7 +11,7 @@ from win10toast import ToastNotifier  # pip install win10toast
 app = Flask(__name__)
 
 # --- API Keys ---
-news_api_key = "9b51e90d610b43bd9d0e413c5993e661"
+news_api_key = "Your KEY"
 
 # --- Helper Functions ---
 def get_calendar_info(query):
